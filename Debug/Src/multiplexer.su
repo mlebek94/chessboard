@@ -1,0 +1,2 @@
+multiplexer.c:12:6:initMultiplexer	24	static
+multiplexer.c:35:6:scanMatrix	32	static

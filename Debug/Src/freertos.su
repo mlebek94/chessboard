@@ -1,0 +1,6 @@
+freertos.c:106:6:MX_FREERTOS_Init	128	static
+freertos.c:165:6:StartDefaultTask	16	static
+freertos.c:184:13:StartMultiplexerTask	16	static
+freertos.c:202:13:StartLedTask	16	static
+freertos.c:220:13:StartComTask	16	static
+freertos.c:238:13:StartChessboardTask	16	static
